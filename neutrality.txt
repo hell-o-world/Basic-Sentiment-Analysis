@@ -1,0 +1,111 @@
+Hello friend.
+We are doing the implementation of ml.
+This is emotion recognition from text.
+The day is hot.
+I started fighting.
+it is about a dog named Clifford.
+Winter mornings are very cold.
+I have to go to college in the morning.
+It is pleasant weather.
+It is hot and humid in Mumbai.
+Pune has a pleasant climate.
+The weather is always nice in Pune.
+His pet dog died recently.
+She was afraid of ghosts.
+My phone battery is low.
+I bought a new smartphone.
+They were lost in the forest.
+The forest is full of wild animals.
+Their car broke down in the middle of the highway.
+He was serious about the exams.
+The exam results have come out.
+The quick brown fox jumps over the lazy dog.
+Five boxing wizards jump quickly.
+Earth is the third planet from the Sun.
+This keyboard is a failure.
+This notepad needs many sentences.
+qwertyuiopasdfghjklzxcvbnm is not a word.
+I am John. 
+I am a student of St. Andrew’s High School. 
+I am working in Microsoft Corporation. 
+I am doing business. 
+I am looking for a job. 
+I am a housewife. 
+He is my father. 
+She is my mother. 
+He is my elder brother. 
+This is my younger brother. 
+She is my elder sister. 
+She is my younger sister. 
+He is my grandfather. 
+She is my grandmother. 
+He is my neighbour. 
+He is my classmate. 
+He is my colleague. 
+They are giving the bonus next week. 
+I am leaving for Salem tomorrow night. 
+They are vacating the house next month. 
+Next week my cousin is coming from Mumbai. 
+I have to take her to Kumbakonam.
+Please be seated. 
+Please have your seat. 
+Make yourself comfortable. 
+Would you like something to drink? 
+Shall we adjourn for dinner? 
+Shall we start? 
+I think it is time for dinner, shall we? 
+Please help yourself. 
+Please try this dish. 
+My friend Surya is getting married next month. 
+I am leaving for Bangalore tonight and I will be back after 10 days. 
+You just wait there. I will come and pick you up. 
+I will take you there one day. 
+I think it will rain today. 
+I hope they will win. 
+It is already 8.30. I don't think they will come. 
+Hereafter I won't go with them. 
+They won't mistake me. 
+How is your father? 
+How is your mother? 
+How is your brother? 
+How is your sister? 
+Where do you live? 
+Where are you living? 
+Where is your residence? 
+I live in London. 
+I am living in London. 
+I am residing at London. 
+Where are you from? 
+Where do you come from? 
+Which is your native town? 
+You belong to which place? 
+I am from Chicago. 
+I come from Chicago. 
+My native town is Chicago. 
+I belong to Chicago. 
+Where does he live? 
+Where do they live? 
+He lives at Paris in France. 
+They live in at Paris in France.
+Do you have a computer at home? 
+Do you have an internet connection? 
+Can I have your e-mail Id? 
+How frequently do you check your mail? 
+Have you received my e-mail? 
+My floppy drive is not working properly and at times my computer keeps freezing up. 
+Do you know any hardware engineer? 
+I think a virus has infected our computer. 
+Are you familiar with DTP and Multimedia? 
+Is there any browsing centre close by? 
+Come to the chat room on Sunday at 3. I'll be online. 
+Can you write it on a CD for me? 
+Is it a copy righted CD? 
+Do I require installation for opening the CD? 
+On what format have you sent the file? 
+Visit this site if you want more information. 
+Please visit our site. 
+You are welcome to visit our site.  
+While we’ve always known how important transparency is when it comes to government requests, the events of the past year have underscored just how urgent the issue is.
+Today, we’re updating our Transparency Report for the ninth time.
+Today, I have not played ball with the dog in the park.
+As it was raining all day, I have not played ball with the dog in the park today.
